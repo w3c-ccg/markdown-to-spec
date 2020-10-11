@@ -17,6 +17,8 @@ This lets you write your specs in markdown, or technically [bikeshed](https://gi
 
 Start editing your spec (note .bs file extension). The github action runs on commit to automatically convert to respec/html, via bikeshed. 
 
+[Bikeshed Quick Start](https://github.com/tabatkins/bikeshed/blob/master/docs/quick-start.md)
+
 ## Learn more
 - [See an example](https://github.com/w3c-ccg/vc-ed-models)
 - [Spec-to-prod](https://w3c-ccg.github.io/specs.html#spec-prod)
